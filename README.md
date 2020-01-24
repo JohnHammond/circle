@@ -6,4 +6,4 @@ Testing CircleCI
 
 Now we have credits
 
-added ssh key
+added ssh key cloned properly
